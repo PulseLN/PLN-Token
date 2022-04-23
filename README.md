@@ -2,10 +2,12 @@
 
 
 
-Token Name: PulseLN Founder Token
+*Token Name: PulseLN Founder Token
 
-Token Symbol: PLN
+*Token Symbol: PLN
 
-Supply: 1,000,000,000,000
+*Supply: 1,000,000,000,000
 
-Decimals: 18
+*Decimals: 18
+
+(For responsible disclosure of any concerns please contact pulseLN@protonmail.com))

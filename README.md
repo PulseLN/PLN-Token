@@ -13,4 +13,5 @@
 *Decimals: 18
 
 (For responsible disclosure of any concerns please contact pulseLN@protonmail.com)
+
 (Join us on [https://t.me/pulselncom](https://t.me/pulseLNcom))

@@ -1,6 +1,6 @@
 # PLN Token Contract
 
-[![license-badge]](LICENSE)
+
 
 ![PulseChain's PulseLN](https://i.imgur.com/pwTR3hk.png)
 

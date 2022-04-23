@@ -1,6 +1,6 @@
 # PLN Token Contract
 
-
+![PulseChain's PulseLN](https://i.imgur.com/pwTR3hk.png)
 
 *Token Name: PulseLN Founder Token
 
